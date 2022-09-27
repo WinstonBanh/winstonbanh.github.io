@@ -3,4 +3,5 @@ When I first started to improve my technical skills with personal projects, I ha
 # Acknowledgement
 In order to make this website, I have watched the tutorial video of Alex The Analyst, one of the biggest and most useful data analytics youtuber. His channel helps me a lot in not only learning technical skills but also guiding to the right direction on my self-learning journey.
 You can check his channel out [here](https://www.youtube.com/c/alextheanalyst).
+
 Moreover, I want to give a big thank to [@ajlkn](http://twitter.com/ajlkn), who built the website [html5up.net](https://html5up.net).
