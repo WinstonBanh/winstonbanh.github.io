@@ -3,7 +3,7 @@ When I first started to improve my technical skills with personal projects, I ha
 
 Fun fact: before deciding to code (or modify the code :stuck_out_tongue_winking_eye:) a website myself, I did consider to use [Wix.com](wix.com), a user-friendly website building service where you only need to drag-and-drop. Another advantage of Wix is its template collection which is much bigger than html5up.net's. However, on the other hand, you have to pay monthly subscription fee for using its service.
 Personally, I did not choose Wix since I did not come this far, as a data analyst, only to come this far. :satisfied:
-!(https://miro.medium.com/max/1400/0*j5PAzSDwQgugJx1u)
+![Motivation image](https://miro.medium.com/max/1400/0*j5PAzSDwQgugJx1u)
 
 
 # The process
