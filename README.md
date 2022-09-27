@@ -5,6 +5,8 @@ Fun fact: before deciding to code (or modify the code :stuck_out_tongue_winking_
 Personally, I did not choose Wix since I did not come this far, as a data analyst, only to come this far. :satisfied:
 ![Motivation image](https://miro.medium.com/max/1400/0*j5PAzSDwQgugJx1u)
 
+<img src="https://miro.medium.com/max/1400/0*j5PAzSDwQgugJx1u" width="100" height="100">
+
 
 # The process
 Even for beginners with no previous coding experience, they are still able to build their websites by mimicking the html scripts in the pre-built templates on html5up.net. In this blog, I will walk you through how to build website from begin to end. Along the process, I will also share some basic rules (and tricks) to help you to bfarmiliar with html. 
