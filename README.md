@@ -18,7 +18,8 @@ Go the the [site](html5up.net), click the "Free download" button on the template
 When you download the 
 
 ### 3. Modify the script for personalization
-The html script 
+The html script is usually a bit long and quite scary for those who first looks at that. However, unlike most other programming language, for html, you can actually see what part of the script creates which element by using the "Inspect Element" function. 
+> Right click on the web page you want to inpsect, and choose "Inspect Element"
 
 
 
