@@ -14,7 +14,12 @@ Go the the [site](html5up.net), click the "Free download" button on the template
 
 <img src="/images/blogstep1.png" width="300" height="150">
 
-### 1. Download Visual Studio Code to work with the html scripts
+### 2. Download Visual Studio Code to work with the html scripts
+When you download the 
+
+### 3. Modify the script for personalization
+The html script 
+
 
 
 
