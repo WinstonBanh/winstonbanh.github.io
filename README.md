@@ -11,7 +11,7 @@ Even for beginners with no previous coding experience, they are still able to bu
 
 ### 1. Download the desired template on html5up.net
 Go the the [site](html5up.net), 
-<img src="winstonbanh.github.io/main/images/blogstep1.png" width="300" height="150">
+<img src="/images/blogstep1.png" width="300" height="150">
 
 ### 1. Download Visual Studio Code to work with the html scripts
 
