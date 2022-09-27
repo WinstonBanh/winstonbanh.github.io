@@ -1,1 +1,2 @@
-I have always want to 
+# The motivation
+When I first started to improve my technical skills with personal projects, I have always want to build a personal website to, first, document what I did and, second, enhance my writing skill. However, this blogging project has been delayed multipled times as I kept telling myself "You don't know html, how can you do it?". Fortunately, I was recently assigned a python scrapping task in which I had to learn html to enough to inspect the competitor's website.
