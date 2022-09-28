@@ -11,16 +11,12 @@ Even for beginners with no previous coding experience, they are still able to bu
 
 ## Material preparation
 
-### 1.Download the desired template on html5up.net
-Go the the [site](html5up.net), click the "Free download" button on the template that you like. You should check the template demo to see all the pages that template offers.
+- **Download the desired template on html5up.net**: Go the the [site](html5up.net), click the "Free download" button on the template that you like. You should check the template demo to see all the pages that template offers.
+- **Download Visual Studio Code**: After downloading the template folder, you will usually see a few .htnl files, each representing a page in your website. You will need VSC as the editor to modify those scripts.
 
-<img src="/images/blogstep1.png" width="300" height="150">
+## Personalization phase
 
-### 2. Download Visual Studio Code 
-When you download the template to work with the html scripts
-
-### 3. Modify the script for personalization
-The html script is usually a bit long and quite scary for those who first looks at that. However, unlike most other programming language, for html, you can actually see what part of the script creates which element by using the "Inspect Element" function. 
+- **Inspect the page to get the know the elements**: The html script is usually a bit long and quite scary for those who first looks at that. However, unlike most other programming language, for html, you can actually see what part of the script creates which element by using the "Inspect Element" function. 
 > Right click on the web page you want to inpsect, and choose "Inspect Element"
 
 
