@@ -17,7 +17,13 @@ Even for beginners with no previous coding experience, they are still able to bu
 ## Personalization phase
 
 - **Inspect the page to get the know the elements**: The html script is usually a bit long and quite scary for those who first looks at that. However, unlike most other programming language, for html, you can actually see what part of the script creates which element by using the "Inspect Element" function. 
-    > Right click on the web page you want to inpsect, and choose "Inspect Element"
+    > Right click on the web page you want to inpsect, and choose "Inspect Element". Everytime you move your mouse on an "element" existing on the web page, one part of the corresponding script will be highlighted.
+- **Modify elements**: All elements of the html script are wrapped in tags, which start with <...> and end with </...>. After inspecting the page, you will modify the text contents in each tag in the way that best suits to you. To add more elements other than text, you can check the "element.html" script to get farmiliar with the code to build each type.
+
+## Hosting on GitHub page
+
+- **Upload your website folder onto Github as a repository**: There are two ways to do this. First option, you can create a new empty repository on GitHub and, then, manually upload all the files onto that repository. Or, second option, you can download GitHub Desktop application and manage all your repositories on that app. Remeber to name your repository followed *"yourwebsitename.github.io"* so that Git can regconize this repository as a Git page.
+- **
 
 
 
