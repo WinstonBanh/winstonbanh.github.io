@@ -17,7 +17,7 @@ Even for beginners with no previous coding experience, they are still able to bu
 ## Personalization phase
 
 - **Inspect the page to get the know the elements**: The html script is usually a bit long and quite scary for those who first looks at that. However, unlike most other programming language, for html, you can actually see what part of the script creates which element by using the "Inspect Element" function. 
-> Right click on the web page you want to inpsect, and choose "Inspect Element"
+    > Right click on the web page you want to inpsect, and choose "Inspect Element"
 
 
 
